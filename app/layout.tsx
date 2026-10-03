@@ -11,8 +11,8 @@ const geist = Geist({
 });
 
 export const metadata: Metadata = {
-  title: "AI Hotel Operations",
-  description: "AI-powered hotel operations management platform",
+  title: "Hotel.Operations",
+  description: "Hotel operations dashboard: reservations, rooms, guests, maintenance and check-in/check-out",
 };
 
 export default function RootLayout({

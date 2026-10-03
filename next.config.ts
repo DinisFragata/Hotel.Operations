@@ -1,7 +1,7 @@
 import type { NextConfig } from "next";
 
 const basePath = process.env.VERCEL_ENV === "production"
-  ? "/projects/hotel-ai-assistant/demo"
+  ? "/projects/hotel-operations/demo"
   : "";
 
 const nextConfig: NextConfig = {

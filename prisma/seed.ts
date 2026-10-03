@@ -1,5 +1,5 @@
 /**
- * Dados de exemplo (fictícios) para o FRAGATA.OS.
+ * Dados de exemplo (fictícios) para o Hotel.Operations.
  *
  * ATENÇÃO: este script APAGA todos os dados das tabelas da aplicação e volta a
  * criá-los. É a forma de repor a demo. Corre-o apenas contra a base de dados
