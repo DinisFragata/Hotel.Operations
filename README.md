@@ -8,7 +8,7 @@ A hotel management platform: reservations, rooms, guests, maintenance and check-
 
 ## Demo
 
-[dinisfragata.pt/projects/hoteloperations/demo](https://www.dinisfragata.pt/projects/hoteloperations/demo)
+[dinisfragata.pt/projects/hoteloperations/demo](https://www.dinisfragata.pt/projects/hotel-operations/demo)
 
 All demo data is fictional.
 
@@ -95,8 +95,8 @@ If any step fails, nothing is saved.
 **Prerequisites:** Node.js 20.19+ (or 22.12+), npm and a PostgreSQL database (local or, for example, a free project on [Neon](https://neon.tech)).
 
 ```bash
-git clone https://github.com/DinisFragata/Hotel-AI-Assistent.git
-cd Hotel-AI-Assistent
+git clone https://github.com/DinisFragata/Hotel.Operations.git
+cd Hotel.Operations
 cp .env.example .env          # fill in DATABASE_URL (and OPENAI_API_KEY if you want the AI Assistant)
 npm install
 npx prisma migrate deploy     # create the tables
