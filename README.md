@@ -8,7 +8,7 @@ A hotel management platform: reservations, rooms, guests, maintenance and check-
 
 ## Demo
 
-[dinisfragata.pt/projects/hotel-ai-assistant/demo](https://www.dinisfragata.pt/projects/hotel-ai-assistant/demo)
+[dinisfragata.pt/projects/hoteloperations/demo](https://www.dinisfragata.pt/projects/hoteloperations/demo)
 
 All demo data is fictional.
 
